@@ -3,9 +3,8 @@ layout: post
 title: 블로그 개장
 date: 2018-04-28 17:50:00 +0600
 description: 개장했다이
-img: i-rest.jpg # Add image post (optional)
+img: IMG-0675.jpg # Add image post (optional)
 tags: [blog]
 ---
 
-## *축* 블로그 개장
 아직 손댈곳이 많아 보인다. 천천히 해보자.
